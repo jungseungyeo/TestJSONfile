@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+          "title": "린생_1",
+          "subTitle": "커피",
+          "image": "20"
+        },
+        {
+          "title": "린생_2",
+          "subTitle": "소주",
+          "image": "20"
+        },
+        {
+          "title": "린생_3",
+          "subTitle": "맥주",
+          "image": "20"
+        },
+        {
+          "title": "린생_4",
+          "subTitle": "제주에일",
+          "image": "20"
+        },
+        {
+          "title": "린생_5",
+          "subTitle": "펠롱에일",
+          "image": "20"
+        },
+        {
+          "title": "린생_6",
+          "subTitle": "iOS 개발자",
+          "image": "20"
+        },
+    ]
+}
