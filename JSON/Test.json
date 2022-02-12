@@ -1,32 +1,32 @@
 {
     "data": [
         {
-          "title": "린생_1",
+          "title": "타이틀_1",
           "subTitle": "커피",
           "image": "https://raw.githubusercontent.com/jungseungyeo/TestJSONfile/main/Image/soju1.png"
         },
         {
-          "title": "린생_2",
+          "title": "타이틀_2",
           "subTitle": "소주",
           "image": "https://raw.githubusercontent.com/jungseungyeo/TestJSONfile/main/Image/soju2.png"
         },
         {
-          "title": "린생_3",
+          "title": "타이틀_3",
           "subTitle": "맥주맥주맥주맥주맥주맥주맥주",
           "image": "https://raw.githubusercontent.com/jungseungyeo/TestJSONfile/main/Image/soju3.png"
         },
         {
-          "title": "린생_4",
+          "title": "타이틀_4",
           "subTitle": "제주에일",
           "image": "https://raw.githubusercontent.com/jungseungyeo/TestJSONfile/main/Image/soju4.png"
         },
         {
-          "title": "린생_5",
+          "title": "타이틀_5",
           "subTitle": "펠롱에일",
           "image": "https://raw.githubusercontent.com/jungseungyeo/TestJSONfile/main/Image/soju5.png"
         },
         {
-          "title": "커피먹는 개발자asdlflsdnflnsdlkfnlksdnflk",
+          "title": "타이틀_6",
           "subTitle": "iOS 개발자",
           "image": "https://raw.githubusercontent.com/jungseungyeo/TestJSONfile/main/Image/soju6.png"
         }
